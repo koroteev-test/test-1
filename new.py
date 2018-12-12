@@ -1,1 +1,1 @@
-print("Added functionality")
+print("Added new functionality")
